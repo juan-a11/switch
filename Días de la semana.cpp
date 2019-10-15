@@ -13,7 +13,7 @@ using std::cin;
 int main()
 {
 int numero_1;
-cout << "Introduce un numero del 1 al 7: ";
+cout << "Introduce un numero del 1 al 7: "; //comentario
 cin >> numero_1;
 
 switch(numero_1)
